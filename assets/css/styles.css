@@ -5,3 +5,9 @@
 img {
      width: 100%
 }
+
+.logo {
+     float: right;
+     width: 100px;
+     height: auto;
+}
